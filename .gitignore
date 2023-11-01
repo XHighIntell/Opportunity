@@ -1,0 +1,9 @@
+.vs
+output
+bin
+obj
+PublishProfiles
+src/WebUI/wwwroot/portal/**/*.js
+src/WebUI/wwwroot/portal/*.js
+src/WebUI/wwwroot/static/js/opportunity.js
+src/WebUI/wwwroot/static/js/opportunity.d.ts

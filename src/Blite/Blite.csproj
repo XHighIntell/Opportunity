@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Binance.Net" Version="9.0.5" PrivateAssets="all" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Blite.Future\" />
+      <Folder Include="Blite.Future.Strategy\" />
+    </ItemGroup>
+
+</Project>
